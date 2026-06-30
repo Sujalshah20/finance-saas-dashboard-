@@ -100,14 +100,6 @@
 
 🔗 **Live Website:** [Coming Soon — Deploy on Vercel]
 
-> 📌 Once deployed, replace this link with your live URL.
-
----
-
-## 🚀 Getting Started
-
-Follow these steps to set up the project locally.
-
 ### ✅ Prerequisites
 
 Make sure you have these installed:
