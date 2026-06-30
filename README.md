@@ -47,17 +47,7 @@
 
 <!-- Replace these placeholders with your actual screenshots later -->
 ### 📊 Main Dashboard
-<img src="https://via.placeholder.com/1200x600/0f172a/10B981?text=💰+Finance+Dashboard+Overview" alt="Dashboard" width="100%" style="border-radius: 10px;"/>
-
-<br/><br/>
-
-### 💳 Transactions Page
-<img src="https://via.placeholder.com/1200x600/0f172a/10B981?text=💳+Transactions+Management" alt="Transactions" width="100%" style="border-radius: 10px;"/>
-
-<br/><br/>
-
-### 📈 Analytics & Charts
-<img src="https://via.placeholder.com/1200x600/0f172a/10B981?text=📈+Analytics+%26+Reports" alt="Analytics" width="100%" style="border-radius: 10px;"/>
+[<img src="https://via.placeholder.com/1200x600/0f172a/10B981?text=💰+Finance+Dashboard+Overview" alt="Dashboard" width="100%" style="border-radius: 10px;"/>](https://i.ibb.co/SkM6wWd/dashboard1.png)
 
 <br/><br/>
 
@@ -66,9 +56,69 @@
 | <img src="https://via.placeholder.com/500x280/0f172a/10B981?text=🏦+Accounts" alt="Accounts" width="100%"/> | <img src="https://via.placeholder.com/500x280/0f172a/10B981?text=📁+Categories" alt="Categories" width="100%"/> |
 
 </div>
-
-> 📌 **Tip:** Upload your screenshots to [imgbb.com](https://imgbb.com/) and replace the placeholder URLs above.
-
 ---
 
 ## ✨ Features
+
+| Feature | Status |
+|---------|:------:|
+| 🔐 Secure Authentication (Clerk) | ✅ |
+| 💳 Multiple Bank Accounts Management | ✅ |
+| 📊 Real-time Analytics Dashboard | ✅ |
+| 💸 Income & Expense Tracking | ✅ |
+| 📁 Custom Categories | ✅ |
+| 📈 Interactive Charts & Graphs | ✅ |
+| 🔍 Advanced Filtering & Search | ✅ |
+| 📥 CSV Import for Transactions | ✅ |
+| 📅 Date Range Selection | ✅ |
+| 💰 Multi-Currency Support | 🚧 |
+| 🔔 Smart Notifications | 🚧 |
+| 💳 Stripe Subscription Plans | 🔜 |
+| 📱 Mobile App | 🔜 |
+| 🌙 Dark Mode | ✅ |
+| 📤 Export Reports (PDF/Excel) | 🔜 |
+
+---
+
+## 🏗️ Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|:--------:|:------------|
+| **Framework** | ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white) |
+| **Language** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white) |
+| **State Management** | ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white) |
+| **API Layer** | ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) |
+| **Database** | ![Neon](https://img.shields.io/badge/Neon_DB-00E599?style=flat-square&logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **ORM** | ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) |
+| **Authentication** | ![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white) |
+| **Charts** | ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) |
+| **Forms** | ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+
+</div>
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Live Website:** [Coming Soon — Deploy on Vercel]
+
+> 📌 Once deployed, replace this link with your live URL.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally.
+
+### ✅ Prerequisites
+
+Make sure you have these installed:
+
+```bash
+node    >= 18.0.0
+npm     >= 9.0.0
+git     >= 2.0.0
