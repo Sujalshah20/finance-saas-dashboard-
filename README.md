@@ -41,21 +41,15 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 <div align="center">
 
-<!-- Replace these placeholders with your actual screenshots later -->
 ### 📊 Main Dashboard
-[<img src="https://via.placeholder.com/1200x600/0f172a/10B981?text=💰+Finance+Dashboard+Overview" alt="Dashboard" width="100%" style="border-radius: 10px;"/>](https://i.ibb.co/SkM6wWd/dashboard1.png)
-
-<br/><br/>
-
-| Accounts | Categories |
-|:--------:|:----------:|
-| <img src="https://via.placeholder.com/500x280/0f172a/10B981?text=🏦+Accounts" alt="Accounts" width="100%"/> | <img src="https://via.placeholder.com/500x280/0f172a/10B981?text=📁+Categories" alt="Categories" width="100%"/> |
+<img src="https://i.ibb.co/SkM6wWd/dashboard1.png" alt="Finance Dashboard" width="100%" style="border-radius: 10px;"/>
 
 </div>
+
 ---
 
 ## ✨ Features
